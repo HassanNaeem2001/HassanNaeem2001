@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#FFD700">Hi 👋, I'm Hassan</h1>
-<h3 align="center">💻 Website Designer & Developer | 👨‍🏫 Educator | 💛 Code Lover</h3>
+<h3 align="center">💻 Website Designer & Developer | 👨‍🏫 Educator </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Designs%20that%20Pop-%23FFD700?style=for-the-badge&logo=figma&logoColor=black" />
