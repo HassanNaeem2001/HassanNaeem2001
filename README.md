@@ -1,31 +1,30 @@
-<h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">💻 Website Designer & Developer | 👨‍🏫 Educator | 💡 Code Enthusiast</h3>
-
----
+<h1 align="center" style="color:#FFD700">Hi 👋, I'm Hassan</h1>
+<h3 align="center">💻 Website Designer & Developer | 👨‍🏫 Educator | 💛 Code Lover</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20with%20Passion-%23f97316.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Teaching%20is%20my%20Superpower-%239b59b6.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Wizardry-%231abc9c.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Designs%20that%20Pop-%23FFD700?style=for-the-badge&logo=figma&logoColor=black" />
+  <img src="https://img.shields.io/badge/Code%20&%20Teach-%23000000?style=for-the-badge&logo=github&logoColor=%23FFD700" />
+  <img src="https://img.shields.io/badge/Learning%20Never%20Stops-%23000000?style=for-the-badge&logo=fire&logoColor=%23FFD700" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm **Hassan**, a full-time **Website Designer & Developer** with a deep love for clean code, modern design, and teaching others how to create beautiful, functional websites. I enjoy turning complex problems into elegant, user-friendly solutions—and helping others learn how to do the same.
+I’m **Hassan**, a passionate **Website Designer & Developer** with a knack for teaching and simplifying complex coding concepts.
 
-- 🎨 Designing sleek, modern user interfaces
-- 💻 Building responsive and accessible websites
-- 🎓 Sharing my knowledge through teaching & mentoring
-- 🔁 Continuously learning and improving
+💛 What I do:
+- Build responsive, modern websites
+- Teach web development with passion
+- Solve design-to-code challenges
+- Share code tips, tutorials & tools
 
 ---
 
 ## 🛠️ Tech Stack
 
 ```text
-Frontend:   HTML | CSS | JavaScript | React | Tailwind CSS | Bootstrap
-Backend:    Node.js | Express | PHP | MySQL | MongoDB
-Design:     Figma | Adobe XD | Canva
-Tools:      Git | VS Code | Postman | NPM
+💻 Languages:     HTML, CSS, JavaScript, PHP, SQL
+⚙️ Frameworks:    React, Tailwind, Bootstrap, Node.js, Express
+🎨 Tools:         Figma, Adobe XD, Canva
+🧰 Dev Tools:     Git, GitHub, VS Code, Postman, NPM
